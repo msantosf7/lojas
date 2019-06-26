@@ -360,27 +360,5 @@
       "date": "15/12/2019",
       "time":"15:00"
     }
-  ],
-  "interior": [
-   {
-      "id": 93,
-      "loja": "Philotimia",
-      "cidade": "Recife",
-      "mestre": "Mestre teste",
-      "fone": "(81)99585-2512",
-      "email": "testeA@gmail.com",
-      "date": "15/12/2019",
-      "time":"15:00"
-    },
-     {
-      "id": 93,
-      "loja": "Philotimia",
-      "cidade": "Recife",
-      "mestre": "Mestre teste",
-      "fone": "(81)99585-2512",
-      "email": "testeA@gmail.com",
-      "date": "15/12/2019",
-      "time":"15:00"
-    }
   ]
 }
